@@ -73,7 +73,7 @@ The code provides an overview of the dataset, including its size (rows and colum
 
    This provides a concise overview of the preprocessing steps applied to the dataset.
 
-   <h1 style="color:pink;">6. Model Selection and Training</h1>git add README.md
+   <h1 style="color:pink;">6. Model Selection and Training</h1>
 
 This section involves selecting various machine learning models and training them using the preprocessed data.
 
@@ -89,7 +89,9 @@ This section involves selecting various machine learning models and training the
 4. **K-Nearest Neighbors (KNN)**  
    KNN is a non-parametric method used for classification tasks. A `GridSearchCV` is applied to tune the `n_neighbors` hyperparameter, which controls the number of neighbors used for classification. The model is trained on a train-validation split to evaluate its performance and choose the best model based on accuracy.
 
-5. **Support Vector Machine (SVM)**  
+5. **Stacking Classifier**: Combines the predictions of multiple models—Logistic Regression, Random Forest, Decision Tree, and KNN—using a final Logistic Regression model for the ensemble.
+  
+6. **Support Vector Machine (SVM)**  
    An SVM classifier is trained using a `GridSearchCV` for hyperparameter tuning. The regularization parameter (`C`) is tuned, and the best model is selected using cross-validation (`cv=5`) based on accuracy. SVMs are particularly useful for binary classification tasks, and they are effective in high-dimensional spaces.
 
 Each model is trained using the training data and its respective best hyperparameters selected through grid search, ensuring that the most suitable model is chosen for the classification task.
