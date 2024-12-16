@@ -22,7 +22,7 @@ as contributors.
     <a href="https://github.com/Anndischeh/Introduction-to-AI-Coursework/blob/main/Final_code.ipynb" target="_blank" style="color: #0000ff; font-weight: bold; font-size: 16px;">final_code.ipynb</a><br>
     This file is the final collaborative work of both Anndischeh and Stylianos.
     <br>
-    It was submitted as the final project file through the university's system (SAYA).
+    It was submitted as the final project file through the university's system.
   </li>
 
   <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
