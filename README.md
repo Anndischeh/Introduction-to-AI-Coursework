@@ -1,19 +1,35 @@
-# Diabetes Health Indicators Dataset Prediction
-## Introduction
-In this classification project, the dataset [diabetes_012_health_indicators_BRFSS2015.csv](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_012_health_indicators_BRFSS2015.csv) is utilized, which contains 253,680 clean survey responses from the CDC's 2015 Behavioral Risk Factor Surveillance System (BRFSS).
+# INM701: Introduction to AI - Coursework Project
 
-The target variable, Diabetes_012, consists of three classes:
+This project is part of the coursework for the **INM701: Introduction to AI** module, completed by **Anndischeh Mostafavi** and **Stylianos Ioannou** as contributors.
 
+## Project Structure
+
+- **Branch: `feature/coded-by-anndischeh`**  
+  Contains Anndischeh's contributions, including her code and individual written reflection evaluating her work.
+
+- **Files in the Main Directory and Subdirectories:**
+  - `untitled.ipynb`: Contains Stylianos Ioannou's individual contributions.
+  - `.ipynb_checkpoints`: Includes checkpoints related to Stylianos' work.
+  - `final_code.ipynb`: Represents the final collaborative work of both contributors.
+
+## Dataset Overview
+
+In this classification project, the dataset [diabetes_012_health_indicators_BRFSS2015.csv](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_012_health_indicators_BRFSS2015.csv) is utilized. This dataset comprises **253,680 clean survey responses** collected from the CDC's 2015 Behavioral Risk Factor Surveillance System (BRFSS).
+
+### Target Variable: `Diabetes_012`
+The dataset's target variable consists of three classes:
 - **0**: No diabetes or only during pregnancy  
 - **1**: Prediabetes  
-- **2**: Diabetes
+- **2**: Diabetes  
 
-Additionally, the dataset comprises 21 feature variables. Several steps will be followed to select and optimize models for high performance and accuracy.
+## Workflow and Steps
 
-<h1 style="color:pink;">1. Import Required Libraries</h1>
+The project involves the following key steps:
 
-<h1 style="color:pink;">2. Load Dataset</h1>
-
-To load the dataset into a pandas DataFrame and preview the first few rows
-
-<h1 style="color:pink;">3. Data Exploratory Analysis (DEA) </h1>
+1. **Import Required Libraries**  
+2. **Load Dataset**  
+3. **Data Exploratory Analysis (DEA)**  
+4. **Data Visualization**  
+5. **Data Preprocessing**  
+6. **Model Selection and Training**  
+7. **Model Evaluation**
