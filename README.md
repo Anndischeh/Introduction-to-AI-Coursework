@@ -1,6 +1,17 @@
-# INM701: Introduction to AI - Coursework Project
+<h1>INM701: Introduction to AI - Coursework Project</h1>
 
-This project is part of the coursework for the **INM701: Introduction to AI** module, completed by **Anndischeh Mostafavi** and **Stylianos Ioannou** as contributors.
+<p>
+This project is part of the coursework for the <strong>INM701: Introduction to AI</strong> module, completed by
+<span style="font-size: 1.5em; color: blue;">
+  <a href="https://anndischeh.github.io/" target="_blank" style="text-decoration: none; color: blue;">Anndischeh Mostafavi</a>
+</span>
+and
+<span style="font-size: 1.5em; color: green;">
+  <a href="https://github.com/StylianosIoannou" target="_blank" style="text-decoration: none; color: green;">Stylianos Ioannou</a>
+</span>
+as contributors.
+</p>
+
 
 ## Project Structure
 
