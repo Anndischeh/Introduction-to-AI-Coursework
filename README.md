@@ -13,15 +13,36 @@ as contributors.
 </p>
 
 
-## Project Structure
+<h2>Repository Structure</h2>
 
-- **Branch: `feature/coded-by-anndischeh`**  
-  Contains Anndischeh's contributions, including her code and individual written reflection evaluating her work.
+<ul>
+  <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
+    <strong>final_code.ipynb:</strong>
+    This file is located in the main branch and represents the <span style="color: green;">collaborative work</span> of
+    <span style="font-weight: bold; color: blue;">Anndischeh</span>
+    and
+    <span style="font-weight: bold; color: green;">Stylianos</span>.
+    <br>
+    This file was submitted as the final project file through the university's system (SAYA).
+  </li>
 
-- **Files in the Main Directory and Subdirectories:**
-  - `untitled.ipynb`: Contains Stylianos Ioannou's individual contributions.
-  - `.ipynb_checkpoints`: Includes checkpoints related to Stylianos' work.
-  - `final_code.ipynb`: Represents the final collaborative work of both contributors.
+  <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
+    <strong>Branch:</strong> `feature/coded-by-anndischeh`<br>
+    Contains contributions by <span style="font-weight: bold; color: blue;">Anndischeh</span>, including her code and her individual written reflection evaluating her work.
+  </li>
+
+  <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
+    <strong>untitled.ipynb:</strong><br>
+    Located in the main branch, this file contains individual contributions by
+    <span style="font-weight: bold; color: green;">Stylianos</span>.
+  </li>
+
+  <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
+    <strong>.ipynb_checkpoints:</strong><br>
+    Includes checkpoints related to the individual work of
+    <span style="font-weight: bold; color: green;">Stylianos</span>.
+  </li>
+</ul>
 
 ## Dataset Overview
 
