@@ -19,28 +19,40 @@ as contributors.
   <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
     <strong>final_code.ipynb:</strong>
     This file is located in the main branch and represents the <span style="color: green;">collaborative work</span> of
-    <span style="font-weight: bold; color: blue;">Anndischeh</span>
+    <span style="font-weight: bold; color: blue;">
+      <a href="https://anndischeh.github.io/" target="_blank" style="text-decoration: none; color: blue;">Anndischeh</a>
+    </span>
     and
-    <span style="font-weight: bold; color: green;">Stylianos</span>.
+    <span style="font-weight: bold; color: green;">
+      <a href="https://github.com/StylianosIoannou" target="_blank" style="text-decoration: none; color: green;">Stylianos</a>
+    </span>.
     <br>
     This file was submitted as the final project file through the university's system (SAYA).
   </li>
 
   <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
-    <strong>Branch:</strong> `feature/coded-by-anndischeh`<br>
-    Contains contributions by <span style="font-weight: bold; color: blue;">Anndischeh</span>, including her code and her individual written reflection evaluating her work.
+    <strong>Branch:</strong>
+    <a href="https://github.com/Anndischeh/Introduction-to-AI-Coursework/tree/main/feature/coded-by-anndischeh" target="_blank" style="text-decoration: none; color: blue;">`feature/coded-by-anndischeh`</a><br>
+    Contains contributions by
+    <span style="font-weight: bold; color: blue;">
+      <a href="https://anndischeh.github.io/" target="_blank" style="text-decoration: none; color: blue;">Anndischeh</a>
+    </span>, including her code and her individual written reflection evaluating her work.
   </li>
 
   <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
     <strong>untitled.ipynb:</strong><br>
     Located in the main branch, this file contains individual contributions by
-    <span style="font-weight: bold; color: green;">Stylianos</span>.
+    <span style="font-weight: bold; color: green;">
+      <a href="https://github.com/StylianosIoannou" target="_blank" style="text-decoration: none; color: green;">Stylianos</a>
+    </span>.
   </li>
 
   <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
     <strong>.ipynb_checkpoints:</strong><br>
     Includes checkpoints related to the individual work of
-    <span style="font-weight: bold; color: green;">Stylianos</span>.
+    <span style="font-weight: bold; color: green;">
+      <a href="https://github.com/StylianosIoannou" target="_blank" style="text-decoration: none; color: green;">Stylianos</a>
+    </span>.
   </li>
 </ul>
 
