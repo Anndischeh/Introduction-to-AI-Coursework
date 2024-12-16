@@ -17,42 +17,37 @@ as contributors.
 
 <ul>
   <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
-    <strong>final_code.ipynb:</strong>
-    This file is located in the main branch and represents the <span style="color: green;">collaborative work</span> of
-    <span style="font-weight: bold; color: blue;">
-      <a href="https://anndischeh.github.io/" target="_blank" style="text-decoration: none; color: blue;">Anndischeh</a>
-    </span>
-    and
-    <span style="font-weight: bold; color: green;">
-      <a href="https://github.com/StylianosIoannou" target="_blank" style="text-decoration: none; color: green;">Stylianos</a>
-    </span>.
+    <strong>Anndischeh and Stylianos:</strong>  
+    <span style="color: green;">final_code.ipynb</span><br>
+    This file is the final collaborative work of both Anndischeh and Stylianos.
     <br>
-    This file was submitted as the final project file through the university's system (SAYA).
+    It was submitted as the final project file through the university's system (SAYA).  
+    <br>
+    <a href="https://github.com/Anndischeh/Introduction-to-AI-Coursework/blob/main/Final_code.ipynb" target="_blank" style="color: blue;">View final_code.ipynb</a>
   </li>
 
   <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
-    <strong>Branch:</strong>
-    <a href="https://github.com/Anndischeh/Introduction-to-AI-Coursework/tree/main/feature/coded-by-anndischeh" target="_blank" style="text-decoration: none; color: blue;">`feature/coded-by-anndischeh`</a><br>
-    Contains contributions by
-    <span style="font-weight: bold; color: blue;">
-      <a href="https://anndischeh.github.io/" target="_blank" style="text-decoration: none; color: blue;">Anndischeh</a>
-    </span>, including her code and her individual written reflection evaluating her work.
+    <strong>Anndischeh:</strong>  
+    <span style="color: blue;">`feature/coded-by-anndischeh` branch</span><br>
+    Contains Anndischeh's contributions, including her code and her individual written reflection evaluating her work.  
+    <br>
+    <a href="https://github.com/Anndischeh/Introduction-to-AI-Coursework/tree/main/feature/coded-by-anndischeh" target="_blank" style="color: blue;">View branch feature/coded-by-anndischeh</a>
   </li>
 
   <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
-    <strong>untitled.ipynb:</strong><br>
-    Located in the main branch, this file contains individual contributions by
-    <span style="font-weight: bold; color: green;">
-      <a href="https://github.com/StylianosIoannou" target="_blank" style="text-decoration: none; color: green;">Stylianos</a>
-    </span>.
+    <strong>Stylianos:</strong>  
+    <span style="color: green;">untitled.ipynb</span><br>
+    This file contains the individual contributions of Stylianos.  
+    <br>
+    <a href="https://github.com/Anndischeh/Introduction-to-AI-Coursework/blob/main/Untitled.ipynb" target="_blank" style="color: green;">View untitled.ipynb</a>
   </li>
 
   <li style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
-    <strong>.ipynb_checkpoints:</strong><br>
-    Includes checkpoints related to the individual work of
-    <span style="font-weight: bold; color: green;">
-      <a href="https://github.com/StylianosIoannou" target="_blank" style="text-decoration: none; color: green;">Stylianos</a>
-    </span>.
+    <strong>Stylianos:</strong>  
+    <span style="color: green;">.ipynb_checkpoints</span><br>
+    Contains checkpoints related to the individual work of Stylianos.  
+    <br>
+    <a href="https://github.com/Anndischeh/Introduction-to-AI-Coursework/tree/main/.ipynb_checkpoints" target="_blank" style="color: green;">View .ipynb_checkpoints</a>
   </li>
 </ul>
 
