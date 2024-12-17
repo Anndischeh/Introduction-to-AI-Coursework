@@ -65,6 +65,41 @@ The project involves the following key steps:
 2. **Load Dataset**  
 3. **Data Exploratory Analysis (DEA)**  
 4. **Data Visualization**  
-5. **Data Preprocessing**  
+5. **Data Preprocessing** 
+ ## 1. Checking for Missing Values ## 2. Removing Outliers ## 3. Scaling Numeric Features ## 4. Balancing the Classes Using SMOTE
+
 6. **Model Selection and Training**  
+
+ <ul>
+                <li>Split the data into training, validation, and test sets.</li>
+                <li>Train different machine learning models, including:
+                    <ul>
+                        <li>Decision Tree</li>
+                        <li>Random Forest</li>
+                        <li>K-Nearest Neighbors (KNN)</li>
+                    </ul>
+                </li>
+                <li>Tune hyperparameters using GridSearchCV and RandomizedSearchCV.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>7. Model Evaluation</h2>
+            <ul>
+                <li>Evaluate the performance of the models using metrics like accuracy, precision, recall, and F1 score.</li>
+                <li>Provide evaluation results for each model:
+                    <ul>
+                        <li>Decision Tree Model Evaluation</li>
+                        <li>Random Forest Model Evaluation</li>
+                        <li>KNN Model Evaluation</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
 7. **Model Evaluation**
+Decision Tree Model Evaluation
+Random Forest Model Evaluation
+KNN Model Evaluation
