@@ -66,7 +66,10 @@ The project involves the following key steps:
 3. **Data Exploratory Analysis (DEA)**  
 4. **Data Visualization**  
 5. **Data Preprocessing** 
- ## 1. Checking for Missing Values ## 2. Removing Outliers ## 3. Scaling Numeric Features ## 4. Balancing the Classes Using SMOTE
+ #### 1. Checking for Missing Values 
+ #### 2. Removing Outliers 
+ #### 3. Scaling Numeric Features 
+ #### 4. Balancing the Classes Using SMOTE
 
 6. **Model Selection and Training**  
 
@@ -83,22 +86,6 @@ The project involves the following key steps:
             </ul>
         </div>
 
-        <div class="section">
-            <h2>7. Model Evaluation</h2>
-            <ul>
-                <li>Evaluate the performance of the models using metrics like accuracy, precision, recall, and F1 score.</li>
-                <li>Provide evaluation results for each model:
-                    <ul>
-                        <li>Decision Tree Model Evaluation</li>
-                        <li>Random Forest Model Evaluation</li>
-                        <li>KNN Model Evaluation</li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </div>
-</body>
-</html>
 7. **Model Evaluation**
 Decision Tree Model Evaluation
 Random Forest Model Evaluation
