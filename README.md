@@ -66,7 +66,6 @@ The project involves the following key steps:
 3. **Data Exploratory Analysis (DEA)**  
 4. **Data Visualization**  
 5. **Data Preprocessing** 
-<li><strong>5. Data Preprocessing</strong>
         <ul>
             <li>Checking for Missing Values</li>
             <li>Removing Outliers</li>
@@ -74,7 +73,7 @@ The project involves the following key steps:
             <li>Balancing the Classes Using SMOTE</li>
         </ul>
     </li>
-    <li><strong>6. Model Selection and Training</strong>
+6. **Model Selection and Training**
         <ul>
             <li>Split the data into training, validation, and test sets.</li>
             <li>Train different machine learning models, including:
@@ -87,7 +86,7 @@ The project involves the following key steps:
             <li>Tune hyperparameters using GridSearchCV and RandomizedSearchCV.</li>
         </ul>
     </li>
-    <li><strong>7. Model Evaluation</strong>
+**7. Model Evaluation**
         <ul>
             <li>Evaluate Decision Tree Model</li>
             <li>Evaluate Random Forest Model</li>
