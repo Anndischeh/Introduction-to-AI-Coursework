@@ -66,30 +66,32 @@ The project involves the following key steps:
 3. **Data Exploratory Analysis (DEA)**  
 4. **Data Visualization**  
 5. **Data Preprocessing** 
-<ul>
-                <li>Checking for Missing Values</li>
-                <li>Removing Outliers </li>
-                <li>Scaling Numeric Features</li>
-                <li>Balancing the Classes Using SMOTE </li>
-<ul>
-
-
-6. **Model Selection and Training**  
-
- <ul>
-                <li>Split the data into training, validation, and test sets.</li>
-                <li>Train different machine learning models, including:
-                    <ul>
-                        <li>Decision Tree</li>
-                        <li>Random Forest</li>
-                        <li>K-Nearest Neighbors (KNN)</li>
-                    </ul>
-                </li>
-                <li>Tune hyperparameters using GridSearchCV and RandomizedSearchCV.</li>
-            </ul>
-        </div>
-
-7. **Model Evaluation**
-Decision Tree Model Evaluation
-Random Forest Model Evaluation
-KNN Model Evaluation
+ <li><strong>Data Preprocessing</strong>
+        <ul>
+            <li>Checking for Missing Values</li>
+            <li>Removing Outliers</li>
+            <li>Scaling Numeric Features</li>
+            <li>Balancing the Classes Using SMOTE</li>
+        </ul>
+    </li>
+    <li><strong>Model Selection and Training</strong>
+        <ul>
+            <li>Split the data into training, validation, and test sets.</li>
+            <li>Train different machine learning models, including:
+                <ul>
+                    <li>Decision Tree</li>
+                    <li>Random Forest</li>
+                    <li>K-Nearest Neighbors (KNN)</li>
+                </ul>
+            </li>
+            <li>Tune hyperparameters using GridSearchCV and RandomizedSearchCV.</li>
+        </ul>
+    </li>
+    <li><strong>Model Evaluation</strong>
+        <ul>
+            <li>Evaluate Decision Tree Model</li>
+            <li>Evaluate Random Forest Model</li>
+            <li>Evaluate KNN Model</li>
+        </ul>
+    </li>
+</ol>
