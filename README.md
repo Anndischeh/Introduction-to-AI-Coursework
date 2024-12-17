@@ -66,10 +66,13 @@ The project involves the following key steps:
 3. **Data Exploratory Analysis (DEA)**  
 4. **Data Visualization**  
 5. **Data Preprocessing** 
- #### 1. Checking for Missing Values 
- #### 2. Removing Outliers 
- #### 3. Scaling Numeric Features 
- #### 4. Balancing the Classes Using SMOTE
+<ul>
+                <li>Checking for Missing Values</li>
+                <li>Removing Outliers </li>
+                <li>Scaling Numeric Features</li>
+                <li>Balancing the Classes Using SMOTE </li>
+<ul>
+
 
 6. **Model Selection and Training**  
 
